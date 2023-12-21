@@ -1,6 +1,6 @@
 # DN8MultiLogin
 
-Project to demonstrate passing auth info between multiple Blazor apps
+Project to demonstrate passing auth info between multiple .NET 8 Blazor apps
 
 ## How to run the demo
 
